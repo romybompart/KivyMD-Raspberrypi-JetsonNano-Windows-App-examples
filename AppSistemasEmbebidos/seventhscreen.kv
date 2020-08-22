@@ -1,0 +1,16 @@
+<SeventhScreen>:
+	MDBoxLayout:
+		id:cambox
+
+	MDBoxLayout:
+		ToggleButton:
+			text: "Play"
+			on_press: root.play()
+			size_hint_y: None
+			height: '48dp'
+
+		Button:
+			text: 'Capture'
+			size_hint_y: None
+			height: '48dp'
+			on_press: root.capture()

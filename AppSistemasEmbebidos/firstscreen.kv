@@ -1,0 +1,20 @@
+<FirstScreen>:
+	FloatLayout:
+		MDTabs:
+			id: test_tabs
+			on_tab_switch: root.on_tab_switch(*args)
+
+<Tab>
+
+    MDLabel:
+    	id: content
+        text: 'Press the tabs to start'
+        halign: 'right'
+        padding_x: dp(15)
+        theme_text_color: 'Primary'
+        font_style: 'H6'
+
+    ScrollView:
+
+    	MDList:
+    		id: scroll

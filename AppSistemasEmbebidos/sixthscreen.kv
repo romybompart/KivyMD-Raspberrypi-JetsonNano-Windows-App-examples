@@ -1,0 +1,39 @@
+<SixthScreen>:
+
+
+    MDCheckbox:
+        group: 'rgb'
+        size_hint: None, None
+        size: dp(48), dp(48)
+        pos_hint: {'center_x': .4, 'center_y': .80}
+        selected_color: rgba(255,0,0,255)
+        on_active: root.on_check_box_active('red',*args)
+
+    MDCheckbox:
+        group: 'rgb'
+        size_hint: None, None
+        size: dp(48), dp(48)
+        pos_hint: {'center_x': .4, 'center_y': .75}
+        selected_color: rgba(0,255,0,255)
+        on_active: root.on_check_box_active('green',*args)
+
+    MDCheckbox:
+        group: 'rgb'
+        size_hint: None, None
+        size: dp(48), dp(48)
+        pos_hint: {'center_x': .4, 'center_y': .70}
+        selected_color: rgba(0,0,255,255)
+        on_active: root.on_check_box_active('blue',*args)
+
+    # <ListItemWithCheckbox>:
+    #     IconLeftWidget:
+    #         icon: root.icon
+    #     RightCheckbox:
+            
+
+    # MDBoxLayout:
+    #     adaptive_height: True
+    #     mb_bg_color: app.theme_cls.primary_color
+
+    #     MDlist:
+    #         id: list_led

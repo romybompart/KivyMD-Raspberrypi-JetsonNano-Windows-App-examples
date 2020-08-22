@@ -1,0 +1,18 @@
+<EigthScreen>:
+
+	BoxLayout:
+		orientation: 'vertical'
+		id:box
+
+	BoxLayout:
+		Button:
+			text: 'Face detection'
+			size_hint_y: None
+			height: '48dp'
+			on_press: root.face_detection()
+
+		Button:
+			text: 'Face Recognition'
+			size_hint_y: None
+			height: '48dp'
+			on_press: root.face_recognition() 

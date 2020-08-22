@@ -1,0 +1,177 @@
+#:include dashboard.kv
+#:include firstscreen.kv
+#:include secondscreen.kv
+#:include thirdscreen.kv
+#:include fourthscreen.kv
+#:include fifthscreen.kv
+#:include sixthscreen.kv
+#:include seventhscreen.kv
+#:include eightscreen.kv
+#:include aboutme.kv
+
+NavigationLayout:
+	id: nav_layout
+
+	ScreenManager:
+
+		Screen:
+
+			BoxLayout:
+				orientation: 'vertical'
+
+				MDToolbar:
+					title: app.title
+					left_action_items: [["menu", lambda x: nav_drawer.set_state(animation=True)]]
+					elevation: 10 
+
+				ScreenManager:
+					id: screen_manager
+
+					DashBoard:
+						id: dashboard
+						name: "dashboard"
+
+					FirstScreen:
+						id: firstscreen
+						name: "firstscreen"
+
+					SecondScreen:
+						id: secondscreen
+						name: "secondscreen"
+
+					ThirdScreen:
+						id: thirdscreen
+						name: "thirdscreen"
+
+					FourthScreen:
+						id: fourthscreen
+						name: "fourthscreen"
+
+					FifthScreen:
+						id: fifthscreen
+						name: "fifthscreen"
+
+					SixthScreen:
+						id: SixthScreen
+						name: "sixthscreen"
+
+					SeventhScreen:
+						id: seventhscreen:
+						name: "seventhscreen"
+
+					EigthScreen:
+						id: eightscreen:
+						name: "eightscreen"
+
+					AboutMe:
+						id: aboutme
+						name: "aboutme"
+
+	MDNavigationDrawer:
+		id: nav_drawer
+
+		BoxLayout:
+			orientation: 'vertical'
+			padding: "8dp"
+			spacing: "8dp"
+
+			Image:
+				size_hint: None, None
+				size: "200dp", "200dp"
+				source: "logo.png"
+
+			ScrollView:
+
+				MDList:
+
+					OneLineIconListItem:
+						text: "Home"
+						on_release:
+							screen_manager.current = "dashboard"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "home"
+
+					OneLineIconListItem:
+						text: "Digital Gates"
+						on_release:
+							screen_manager.current = "firstscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "led-on"
+
+					OneLineIconListItem:
+						text: "Blinkers"
+						on_release:
+							screen_manager.current = "secondscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "arrow-left-right-bold-outline"		
+
+					OneLineIconListItem:
+						text: "Rotate Image"
+						on_release:
+							screen_manager.current = "thirdscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "gauge"	
+
+					OneLineIconListItem:
+						id: webserver
+						text: "Web Server"
+						disabled: True
+						on_release:
+							screen_manager.current = "fourthscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "web"
+
+					OneLineIconListItem:
+						text: "Form"
+						on_release:
+							screen_manager.current = "fifthscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "login"
+
+					OneLineIconListItem:
+						text: "PSOC SPI"
+						on_release:
+							screen_manager.current = "sixthscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "chip"
+
+					OneLineIconListItem:
+						text: "Camera"
+						on_release:
+							screen_manager.current = "seventhscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "webcam"
+
+					OneLineIconListItem:
+						text: "OPENCV"
+						on_release:
+							screen_manager.current = "eightscreen"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "baby-face-outline"
+
+					OneLineIconListItem:
+						text: "About Me"
+						on_release:
+							screen_manager.current = "aboutme"
+							nav_drawer.set_state()
+
+						IconLeftWidget:
+							icon: "bio"	

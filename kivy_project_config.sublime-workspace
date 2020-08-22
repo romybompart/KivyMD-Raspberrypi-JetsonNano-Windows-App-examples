@@ -1,0 +1,1196 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dia",
+				"dialog"
+			],
+			[
+				"tr",
+				"try\tTry/Except/Else/Finally"
+			],
+			[
+				"led",
+				"led_on\tfunction"
+			],
+			[
+				"temp",
+				"temperature_info"
+			],
+			[
+				"clas",
+				"class\tkeyword"
+			],
+			[
+				"pad",
+				"padding\t[left,top,right,bottom]"
+			],
+			[
+				"on",
+				"on_enter\tfunction"
+			],
+			[
+				"cente",
+				"center_y"
+			],
+			[
+				"cent",
+				"center_x"
+			],
+			[
+				"al",
+				"alpha_rad"
+			],
+			[
+				"alp",
+				"alpha_rad\tstatement"
+			],
+			[
+				"i",
+				"io\tmodule"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"CIR",
+				"\\circ                                             \tlatex-mathsymbols"
+			],
+			[
+				"multiro",
+				"\\multirow{number of rows}{*}{text}                \tmultirow"
+			],
+			[
+				"TO",
+				"totalTime\tstatement"
+			],
+			[
+				"total",
+				"total_iteration\tstatement"
+			],
+			[
+				"Ti",
+				"TimeStampFlag\tstatement"
+			],
+			[
+				"Fil",
+				"FileHandler\tclass"
+			],
+			[
+				"Ite",
+				"IterationCounter\tstatement"
+			],
+			[
+				"iter",
+				"iteration\tparam"
+			],
+			[
+				"A",
+				"append\tfunction"
+			],
+			[
+				"type",
+				"typeTime"
+			],
+			[
+				"dict",
+				"dict_item\tstatement"
+			],
+			[
+				"Time",
+				"TimesConfig\tstatement"
+			],
+			[
+				"Tie",
+				"TimesConfig"
+			],
+			[
+				"Rel",
+				"RelayGpio\tstatement"
+			],
+			[
+				"De",
+				"DeviceUnderTest\tclass"
+			],
+			[
+				"state",
+				"statemachine\tmodule"
+			],
+			[
+				"while",
+				"while\tkeyword"
+			],
+			[
+				"unit",
+				"unitundertestmachine\tmodule"
+			],
+			[
+				"device",
+				"device_locked"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"sub",
+				"subplots\tfunction"
+			],
+			[
+				"output",
+				"outputs\tparam"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"num",
+				"num_classes\tstatement"
+			],
+			[
+				"po",
+				"pool"
+			],
+			[
+				"ac",
+				"activation\tparam"
+			],
+			[
+				"ker",
+				"kernel_size\tparam"
+			],
+			[
+				"ke",
+				"kernel_size\tparam"
+			],
+			[
+				"fil",
+				"filters\tparam"
+			],
+			[
+				"Maxp",
+				"MaxPooling2D\tclass"
+			],
+			[
+				"Conv",
+				"Conv2D\tclass"
+			],
+			[
+				"im",
+				"imshow\tfunction"
+			],
+			[
+				"get",
+				"get_cmap\tfunction"
+			],
+			[
+				"img_",
+				"img_grayscale\tstatement"
+			],
+			[
+				"colo",
+				"COLOR_BGR2GRAY\tinstance"
+			],
+			[
+				"asa",
+				"asarray\tfunction"
+			],
+			[
+				"e",
+				"evaluate\tfunction"
+			],
+			[
+				"predict_",
+				"predict_classes\tfunction"
+			],
+			[
+				"cate",
+				"categorical"
+			],
+			[
+				"x_",
+				"x_train\tstatement"
+			],
+			[
+				"y",
+				"y_train\tstatement"
+			],
+			[
+				"ran",
+				"random_state\tparam"
+			],
+			[
+				"make",
+				"make_blobs\tfunction"
+			],
+			[
+				"acc",
+				"accuracy"
+			],
+			[
+				"sc",
+				"scatter\tfunction"
+			],
+			[
+				"mak",
+				"make_circles\tfunction"
+			],
+			[
+				"lin",
+				"linspace\tfunction"
+			],
+			[
+				"h",
+				"history"
+			],
+			[
+				"gradi",
+				"gradient_decent\tfunction"
+			],
+			[
+				"line",
+				"line_p\tparam"
+			],
+			[
+				"all",
+				"all_points\tstatement"
+			],
+			[
+				"right",
+				"right_line"
+			],
+			[
+				"left",
+				"left_line"
+			],
+			[
+				"right_",
+				"right_fit_avg\tstatement"
+			],
+			[
+				"lef_fi",
+				"left_fit_avg\tstatement"
+			],
+			[
+				"rght",
+				"right_fit\tstatement"
+			],
+			[
+				"polygon",
+				"polygon_lines\tparam"
+			],
+			[
+				"zer",
+				"zeros_like\tfunction"
+			],
+			[
+				"houhlin",
+				"HoughLinesP\tfunction"
+			],
+			[
+				"ho",
+				"HoughLinesP\tfunction"
+			],
+			[
+				"wait",
+				"waitKey"
+			],
+			[
+				"regi",
+				"regin_of_interset\tfunction"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"books",
+				"books\tstatement"
+			],
+			[
+				"len",
+				"length\tstatement"
+			],
+			[
+				"py",
+				"pyplot\tmodule"
+			],
+			[
+				"co",
+				"core\tmodule"
+			],
+			[
+				"stee",
+				"steering_command\tstatement"
+			],
+			[
+				"CONV",
+				"Conv2D"
+			],
+			[
+				"unb",
+				"unbinned_value\tstatement"
+			],
+			[
+				"X",
+				"X_valid\tstatement"
+			],
+			[
+				"flip",
+				"flipped_image\tstatement"
+			],
+			[
+				"Value",
+				"Value\tstatement"
+			],
+			[
+				"Conver",
+				"ConverToSpiValue\tfunction"
+			],
+			[
+				"ff",
+				"0xFF"
+			],
+			[
+				"s",
+				"stop"
+			],
+			[
+				"wri",
+				"write\tfunction"
+			],
+			[
+				"th",
+				"throtter\tstatement"
+			],
+			[
+				"date",
+				"datetime\tclass"
+			],
+			[
+				"threa",
+				"Thread\tclass"
+			],
+			[
+				"Spi",
+				"SpiValue\tstatement"
+			],
+			[
+				"spi",
+				"spidev"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"EVEN",
+				"event\tstatement"
+			],
+			[
+				"evn",
+				"event\tstatement"
+			],
+			[
+				"ev",
+				"EventType\tclass"
+			],
+			[
+				"JO",
+				"JOYAXISMOTION\tinstance"
+			],
+			[
+				"event",
+				"event_name\tfunction"
+			],
+			[
+				"env",
+				"event\tstatement"
+			],
+			[
+				"jo",
+				"JOYAXISMOTION\tinstance"
+			],
+			[
+				"JOY",
+				"JOYBUTTONUP\tinstance"
+			],
+			[
+				"Open",
+				"OpenLoop"
+			],
+			[
+				"cLOSE",
+				"CloseLoop"
+			],
+			[
+				"cC",
+				"Cc2"
+			],
+			[
+				"C",
+				"Cc1"
+			],
+			[
+				"de",
+				"dem"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "AppSistemasEmbebidos/main.py",
+			"settings":
+			{
+				"buffer_size": 13928,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AppSistemasEmbebidos/fifthscreen.kv",
+			"settings":
+			{
+				"buffer_size": 1236,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AppSistemasEmbebidos/fourthscreen.kv",
+			"settings":
+			{
+				"buffer_size": 947,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git re",
+				"Git: Remote"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git: push b",
+				"Git: Push Current Branch"
+			],
+			[
+				"GIT: remote",
+				"Git: Remote"
+			],
+			[
+				"git remo",
+				"Git: Remote"
+			],
+			[
+				"git: push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git: rem",
+				"Git: Remote"
+			],
+			[
+				"git: comm",
+				"Git: Commit"
+			],
+			[
+				"git: status",
+				"Git: Status"
+			],
+			[
+				"git: init",
+				"Git: Init"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git: ",
+				"SublimeGit: Documentation"
+			],
+			[
+				"push curren",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git: Remote",
+				"Git: Remote"
+			],
+			[
+				"Git: status",
+				"Git: Status"
+			],
+			[
+				"Git: init",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"SublimeREPL: Python - virtualenv",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"sublimeREPL: PYTHON",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeRepl: python - virtualenv",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"sUBLimeREPL: python",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"commit",
+			"os.__version__",
+			"import os",
+			"python",
+			"__version__",
+			"import numpy",
+			"print(\"\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\")",
+			"print(\"\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n)",
+			"print (\"                                                                                                            \")",
+			"clc",
+			"c;c",
+			"clear()",
+			"clear",
+			"exit()",
+			"os.system('cls')",
+			"import os",
+			"import od",
+			"ClearConsole",
+			"os.system('cls')",
+			"os.system(\"cls\")",
+			"clean",
+			"cls",
+			"clear",
+			"python",
+			"cls",
+			"clear",
+			"cd ",
+			"ls",
+			"cd ..",
+			"dir /p",
+			"exit",
+			"exit()",
+			"print( \"hola\")",
+			"python",
+			"cd..",
+			"ls",
+			"dir /p",
+			"--help",
+			"help",
+			"blank",
+			"flush",
+			"clear",
+			"clear screen",
+			"clr",
+			"cln",
+			"clear",
+			"py -m pip install -U pygame --user",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos"
+	],
+	"file_history":
+	[
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/userdatabase.json",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/FifthActivity.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/main.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/fifthscreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/main.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/first_activity.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/JetsonApiRest.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/kivymd/uix/list.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/uix/card.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/baseclass/home.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/grid.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/uix/boxlayout.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/start_screen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/bottom_navigation.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/baseclass/grid.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/uix/imagelist.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/utils/fitimage.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/base_content.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/main.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/kivymd/uix/bottomnavigation.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/firstscreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/uix/list.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/lists.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/baseclass/list_items.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/list_items.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/fourthscreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/mainBU.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/mainBackUp.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/MachineState/Project_StateMachine/StateMachine example 5/main.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/thirdscreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/third_activity.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/gauge_romy.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/secondscreen.kv",
+		"/C/Users/Romy1/AppData/Local/Temp/Temp1_jetson-nano-support-1.0.2.zip/jetson-nano-support-1.0.2/flash/flashme.sh",
+		"/C/Users/Romy1/Downloads/tegra210-p3448-0000-p3449-0000-a02-spidev-0.dtb",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/__init__.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/cadran.png",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/kivymd/uix/__init__.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/build/lib/kivymd/uix/boxlayout.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/kivymd/uix/boxlayout.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/uix/__init__.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/build/lib/kivymd/uix/button.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/main2.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/uix/button.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/kivymd/uix/button.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/dashboard.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/SecondScreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Screens",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/second_app/secondscreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/second_app/main.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/second_app/main.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/second_app/firstscreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/second_app/aboutme.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/second_app/dashboard.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/main.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/main.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/banner.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/Procesamiento Digital (embebidos)/Activity 2/Kivy_project/kivy_project_config.sublime-project",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/activity_12_gray_scale.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/pdi_project.sublime-project",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Readme.md",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/.git/index",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/.git/config",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_6_0_low_pass_filters.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_3_1_histogram.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_10_0_Rotation.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_11_1_Rotation_Dectection.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_11_0_Rotation_Dectection.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/images/rectangle.jpg",
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/Autonomous Driving Car/Code/Test Code/PCA9685_test.py",
+		"/C/Users/Romy1/Downloads/detect_rotacion.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_9_0_Signature.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_10_1_Rotation_Animated.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/images/square.jpg",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/rotate.jpg",
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/JetsonNano/tegra210-jetson_nano_rb_pwm2-gpio-default.dtsi",
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/JetsonNano/tegra210-jetson_nano_rb_pwm2-pinmux.dtsi",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/Image-Processing-in-Sublime-Text-3/Activity_8_0_Centroid.py",
+		"/C/Users/Romy1/.ssh/id_rsa.pub",
+		"/C/Users/Romy1/.ssh/id_rsa",
+		"/C/Users/Romy1/.ssh/known_hosts",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_1_0_Using_Numpy.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Readme.md",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/.git/config",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Readme.txt",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Test_sublime_text_3_Virtualenv_Tensorflow.py",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_8_0_Centroid.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/pdi_project.sublime-project",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_9_0_Signature.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_7_0_Segmentation.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_6_1_low_pass_filters.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_6_0_low_pass_filters.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_4_0_quadratic_transformation.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_3_1_histogram.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_2_0_Images_from_Skimage.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_3_0_binarization.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_1_1_Using_Skimage.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/How To configure Sublime Text 3 as a Python IDLE.txt",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/User/tensorflow.sublime-build",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Primer Tetra/Proyecto Integrador/Paper/IEEE Conference/conference_101719.tex",
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/Thread/Untitled.ipynb",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/conference_101719.tex",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/bibliography.bib",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/conference_101719.bbl",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/IEEEexample.bib",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/Bibitex/IEEEexample.bib",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/TeX reports the error was in file",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Template/conference-latex-template_10-17-19/Conference-LaTeX-template_10-17-19/conference_101719_template.tex",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/IEEEtran.cls",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/.DS_Store",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/IEEE Conference/conference_101719.log",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/Bibitex/README",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/Bibitex/IEEEfull.bib",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/Bibitex/IEEEtran.bst",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/Bibitex/IEEEtranS.bst",
+		"/C/Users/Romy1/Documents/Documentos Romy/Yazaki/Scripts/MappingDrives.bat",
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/MachineState/Project_StateMachine/StateMachine example 5/list_example.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/MachineState/Project_StateMachine/StateMachine example 5/deviceundertest.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 107.2,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color",
+			"Appl",
+			"Appl\t",
+			"KitchenSinkTextFieldRound",
+			"icon_",
+			"color",
+			"theme_colors",
+			"mip",
+			"SmartTileWithStar",
+			"icon",
+			"ContainerSupport",
+			"OneLineIconListItem",
+			"TwoLineIconListItem",
+			"BaseListItem",
+			"OneLineListItem",
+			"OneLineIconListItem",
+			"KitchenSinkBackdropFrontLayer",
+			"backdrop_front_layer",
+			"KitchenSinkBaseContent",
+			"Menu",
+			"MDTab",
+			"MDBottomNavigationItem",
+			"current",
+			"Screen",
+			"MDTab",
+			"MDBottomNavigationItem",
+			"Screen",
+			"MDBottomNavigationItem",
+			"Icon",
+			"BaseListItem",
+			"OneLineListItem",
+			"OneLineIconListItem",
+			"TwoLineIconListItem",
+			"act1",
+			"MSAcpi_ThermalZoneTemperature",
+			"MDLi",
+			"MD",
+			"root_screen",
+			"info",
+			"x",
+			"FirstActivity",
+			"center",
+			"screen.clear",
+			"clear",
+			"theme",
+			"theme_text_color",
+			"ButtonBehavior",
+			"on_press",
+			"KitchenSinkApp",
+			"area",
+			"up",
+			"pwm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "AppSistemasEmbebidos/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AppSistemasEmbebidos/fifthscreen.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1235,
+								1235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kivy Language/kv.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 584.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "AppSistemasEmbebidos/fourthscreen.kv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kivy Language/kv.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 230.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 126.0
+	},
+	"output.git-fetch":
+	{
+		"height": 126.0
+	},
+	"output.git-init":
+	{
+		"height": 126.0
+	},
+	"output.git-pull":
+	{
+		"height": 126.0
+	},
+	"output.git-push":
+	{
+		"height": 126.0
+	},
+	"output.git-remote":
+	{
+		"height": 126.0
+	},
+	"output.latextools":
+	{
+		"height": 135.0
+	},
+	"pinned_build_system": "kivy_env python 3.7 ",
+	"project": "kivy_project_config.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Romy1\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\tensorflow.sublime-build"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Romy1\\Documents\\Documentos Romy\\Books\\UANL MASTER\\Segundo Tetra\\Procesamiento de Imagenes\\a\\pdi_project.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 350.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

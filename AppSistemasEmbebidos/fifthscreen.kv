@@ -1,0 +1,51 @@
+<FifthScreen>:
+
+    MDCard:
+        orientation: "vertical"
+        padding: dp(48)
+        spacing: dp(15)
+        size_hint: 0.5, 0.8
+        #size: "280dp", "180dp"
+        pos_hint: {"center_x": 0.5, "center_y": 0.5}
+
+        MDLabel:
+            text: "Login"
+            font_style: 'H3'
+            theme_text_color: "Primary"
+            size_hint_y: None
+            height: self.texture_size[1]
+
+        MDSeparator:
+            height: "1dp"
+
+        MDTextField:
+        	id: username
+        	hint_text : "User Name"
+        	icon_right : 'account-circle'
+        	helper_text : "Please enter your user name"
+        	helper_text_mode: "on_focus"
+            write_tab: False
+
+        MDTextField:
+        	id: password
+        	hint_text : "Password"
+        	icon_right : 'key-variant'
+        	helper_text : "Please enter your password"
+        	helper_text_mode: "on_focus"
+            write_tab: False
+
+        MDRoundFlatIconButton:
+        	icon: "login"
+    		text: "Sign In"
+    		on_release: root.signin()
+
+    	MDSeparator:
+            height: "1dp"
+
+        MDLabel:
+        	id: result
+        	text : ""
+        	size_hint_y: None
+            height: self.texture_size[1]
+            font_style: 'Subtitle1'
+

@@ -1,0 +1,32 @@
+<SecondScreen>:
+    FloatLayout:
+
+        MDIconButton:
+        	id: left_b
+            icon: "arrow-left-bold-outline"
+            pos_hint: {"center_x": .40, "center_y": .5}
+            user_font_size: "64sp"
+
+        MDIconButton:
+			id: right_b
+        	icon: "arrow-right-bold-outline"
+        	pos_hint: {"center_x": .60, "center_y": .5}
+        	user_font_size: "64sp"
+
+		MDRaisedButton:
+		    text: "Left"
+		    theme_text_color: 'Primary'
+		    pos_hint: {"center_x": .3, "center_y": .7}
+		    on_press: root.button_press("left")
+
+		MDRaisedButton:
+		    text: "Both"
+		    theme_text_color: 'Primary'
+		    pos_hint: {"center_x": .5, "center_y": .7}
+		    on_press: root.button_press("both")
+
+		MDRaisedButton:
+		    text: "Right"
+		    theme_text_color: 'Primary'
+		    pos_hint: {"center_x": .7, "center_y": .7}
+		    on_press: root.button_press("right")

@@ -1,0 +1,38 @@
+<AboutMe>:
+	FloatLayout:
+		canvas.before:
+			Color:
+				rgba: rgba('#568A2F')
+			Triangle:
+				points: [0, self.size[1], self.size[0], self.size[1], 0, self.size[1] - 0.4*self.size[1]]
+
+			Color:
+				rgba: rgba('#70A449')
+			Triangle:
+				points: [0, self.size[1], self.size[0], self.size[1], self.size[0] , self.size[1] - 0.4*self.size[1]]
+
+		MDLabel:
+			pos_hint: {"x": 0.3, "top": 0.9}
+			size_hint: (0.4, 0.1)
+			halign: "center"
+			font_style: "H5"
+			text: "My name is Romy Bompart"
+			theme_text_color: "Custom"
+			text_color: rgba('#FFFFFF')
+
+		MDLabel:
+			id: biography
+			pos_hint: {"x": 0.3, "top": 0.7}
+			size_hint: (0.4, 0.4)
+			halign: "justify"
+			text: ""
+
+<AvatarItem>:
+
+    ImageLeftWidget:
+        source: root.source
+
+<LeftIconItem>:
+
+    IconLeftWidget:
+        icon: root.icon

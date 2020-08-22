@@ -1,0 +1,27 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "kivy_env python 3.7 ",
+			"selector": "source.python",
+			"shell_cmd": "\"c:/Users/Romy1/Anaconda3/envs/kivy_env/python.exe\" -u \"$file\""
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"c:/Users/Romy1/Anaconda3/envs/kivy_env/python.exe\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "C:/Users/Romy1/Anaconda3/envs/kivy_env/python.exe"
+	}
+}
