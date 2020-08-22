@@ -444,28 +444,10 @@
 	"buffers":
 	[
 		{
-			"file": "AppSistemasEmbebidos/main.py",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 13928,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "AppSistemasEmbebidos/fifthscreen.kv",
-			"settings":
-			{
-				"buffer_size": 1236,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "AppSistemasEmbebidos/fourthscreen.kv",
-			"settings":
-			{
-				"buffer_size": 947,
+				"buffer_size": 3936,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -757,17 +739,22 @@
 	"expanded_folders":
 	[
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project",
-		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos"
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/__pycache__",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities"
 	],
 	"file_history":
 	[
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/main.py",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/README.md",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/JetsonApiRest.py",
+		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/fourthscreen.kv",
+		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/fifthscreen.kv",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/userdatabase.json",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/FifthActivity.py",
-		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/main.py",
-		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/fifthscreen.kv",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/main.kv",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/first_activity.py",
-		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/Activities/JetsonApiRest.py",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/first_app/kivymd/uix/list.py",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/kivymd/uix/card.py",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/baseclass/home.py",
@@ -786,7 +773,6 @@
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/lists.kv",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/baseclass/list_items.py",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/KivyMD-master/KivyMD-master/demos/kitchen_sink/libs/kv/list_items.kv",
-		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/fourthscreen.kv",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/mainBU.py",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Tercer Tetra/SE_PDI/Activity 2/Kivy_project/AppSistemasEmbebidos/mainBackUp.py",
 		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/MachineState/Project_StateMachine/StateMachine example 5/main.py",
@@ -848,7 +834,6 @@
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Readme.txt",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Test_sublime_text_3_Virtualenv_Tensorflow.py",
 		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
-		"/C/Users/Romy1/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default (Windows).sublime-keymap",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_8_0_Centroid.py",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/pdi_project.sublime-project",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/UANL MASTER/Segundo Tetra/Procesamiento de Imagenes/python/Activity_9_0_Signature.py",
@@ -887,8 +872,7 @@
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/Bibitex/IEEEtran.bst",
 		"/C/Users/Romy1/Documents/Documentos Romy/Books/RESEARCH FOR MASTER/Proyecto Integrador/Paper/Bibitex/IEEEtranS.bst",
 		"/C/Users/Romy1/Documents/Documentos Romy/Yazaki/Scripts/MappingDrives.bat",
-		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/MachineState/Project_StateMachine/StateMachine example 5/list_example.py",
-		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/MachineState/Project_StateMachine/StateMachine example 5/deviceundertest.py"
+		"/C/Users/Romy1/Documents/Documentos Romy/Proyectos Personales/MachineState/Project_StateMachine/StateMachine example 5/list_example.py"
 	],
 	"find":
 	{
@@ -980,92 +964,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "AppSistemasEmbebidos/main.py",
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13928,
+						"buffer_size": 3936,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3641,
+								3641
 							]
 						],
 						"settings":
 						{
-							"show_definitions": false,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 7180.0,
+						"translation.y": 720.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "AppSistemasEmbebidos/fifthscreen.kv",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1236,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1235,
-								1235
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Kivy Language/kv.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 584.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "AppSistemasEmbebidos/fourthscreen.kv",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 947,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								630,
-								630
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Kivy Language/kv.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 230.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
