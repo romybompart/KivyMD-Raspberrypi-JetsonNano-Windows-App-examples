@@ -1,4 +1,4 @@
-# Kivy Material Design (KivyMD) for Multi enverioment system
+# Kivy Material Design (KivyMD) for Multi environment system
 ============================
 
  This project explores the use of KivyMD to implement several 
