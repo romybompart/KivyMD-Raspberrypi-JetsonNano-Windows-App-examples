@@ -8,6 +8,8 @@
  2. Jetson Nano, Maxwell GPU/ARM Cortex-A57 MPCore, Ubuntu 18.04
  3. Raspberry pi 4
 
+<img src="https://github.com/romybompart/KivyMD-Raspberrypi-JetsonNano-Windows-App-examples/blob/master/Project%20Images/face_recognition.PNG" width="476" height="377">
+
  The modules that can be found in the project: 
 
  * Digital gates:
